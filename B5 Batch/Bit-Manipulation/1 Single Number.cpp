@@ -1,3 +1,8 @@
+/*
+a^a = 0
+a^0 = a
+
+*/
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {

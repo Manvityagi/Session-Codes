@@ -1,3 +1,12 @@
+/*
+        4, 5, 6, 7, 8, 0, 1, 2, 3 : leave maybe
+
+        2, 3, 4, 5, 6, 7, 8, 0, 1 : target = 4, 0 
+
+        6, 7, 8, 0, 1, 2, 3, 4, 5 : target = 8
+
+*/
+
 class Solution {
 public:
     

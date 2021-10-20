@@ -1,3 +1,12 @@
+/*
+a << 1 = a*2
+a >> 1 = a/2
+1 << a = 2^a
+
+Check if ith bit is set = (1<<i) & n
+
+*/
+
 class Solution {
 public:
     uint32_t reverseBits(uint32_t n) {

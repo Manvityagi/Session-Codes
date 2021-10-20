@@ -1,3 +1,12 @@
+/*
+9 11 9 11 9 11 5
+
+9  = 1 0 0 1
+11 = 1 0 1 1
+5 =  0 1 0 1
+
+*/
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {

@@ -1,7 +1,4 @@
- /*
-    TC - O(m*n)
-    SC - O(m*n)
-*/
+ 
 class Solution {
 public:
     int numDistinct(string s, string t) {
